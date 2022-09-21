@@ -10,7 +10,7 @@ espacio entre palabra y palabra.
 
 """
 import pandas as pd
-import regex as re
+
 
 
 def ingest_data():
